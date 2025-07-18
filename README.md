@@ -78,19 +78,19 @@ Get a glimpse of PawPaw in action:
 This project leverages a modern and robust technology stack to ensure a seamless, scalable, and engaging user experience:
 
 * **Frontend:**
-    * **[Your Frontend Language/Framework]:** ( JavaScript, React Native)
+    *  JavaScript, React Native
 * **Backend:**
-    * **[Your Backend Language/Framework]:** ( Node.js)
+    * Node.js
 * **Database:**
-    * **[Your Database Technology]:** (MySQL,Firebase Realtime Database)
+    * MySQL,Firebase Realtime Database
 * **AI/Machine Learning:**
-    * **[Specify AI/ML libraries/platforms for Chatbot]:** (* OpenAI API)
+    * OpenAI API,Gemini
 * **Cloud Platform:**
-    * **[Your Cloud Platform]:** ( AWS)
+    * AWS
 * **Version Control:**
     * **Git**
 * **Other relevant tools/technologies:**
-    * **Express js,node js**
+    * **Express.js, Node.js**
 
 ---
 
@@ -101,7 +101,7 @@ This project leverages a modern and robust technology stack to ensure a seamless
 
 Before you begin, ensure you have the following software installed on your system:
 
-* **[  Node.js & npm (if using JS/React Native)]:** Download and install the latest LTS version from [nodejs.org](https://nodejs.org/).
+* ** Node.js & npm:** Download and install the latest LTS version from [nodejs.org](https://nodejs.org/).
 
 ### 1. Prerequisites
 
