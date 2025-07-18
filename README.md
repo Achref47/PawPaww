@@ -101,7 +101,7 @@ This project leverages a modern and robust technology stack to ensure a seamless
 
 Before you begin, ensure you have the following software installed on your system:
 
-* ** Node.js & npm:** Download and install the latest LTS version from [nodejs.org](https://nodejs.org/).
+* **Node.js & npm:** Download and install the latest LTS version from [nodejs.org](https://nodejs.org/).
 
 ### 1. Prerequisites
 
